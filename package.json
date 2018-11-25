@@ -1,0 +1,14 @@
+{
+  "name": "UpImg",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/metowolf/UpImg.git",
+  "author": "metowolf <i@i-meto.com>",
+  "license": "MIT",
+  "dependencies": {
+    "file-type": "^10.5.0",
+    "read-chunk": "^3.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
